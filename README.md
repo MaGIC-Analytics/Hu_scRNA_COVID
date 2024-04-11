@@ -1,5 +1,6 @@
 # Hu_scRNA_COVID Project
-![GitHub last commit](https://img.shields.io/github/last-commit/alemenze/Hu_scRNA_COVID)
+[![DOI](https://zenodo.org/badge/681388913.svg)](https://zenodo.org/doi/10.5281/zenodo.10962998)
+![GitHub last commit](https://img.shields.io/github/last-commit/MaGIC-Analytics/Hu_scRNA_COVID)
 [![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?labelColor=000000&logo=docker)](https://www.docker.com/)
 [![run with singularity](https://img.shields.io/badge/run%20with-singularity-1d355c.svg?labelColor=000000)](https://sylabs.io/docs/)
 [![run with RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
